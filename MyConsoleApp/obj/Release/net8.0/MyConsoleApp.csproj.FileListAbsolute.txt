@@ -1,0 +1,14 @@
+D:\dotnet\dot-net-aks\MyConsoleApp\bin\Release\net8.0\MyConsoleApp.exe
+D:\dotnet\dot-net-aks\MyConsoleApp\bin\Release\net8.0\MyConsoleApp.deps.json
+D:\dotnet\dot-net-aks\MyConsoleApp\bin\Release\net8.0\MyConsoleApp.runtimeconfig.json
+D:\dotnet\dot-net-aks\MyConsoleApp\bin\Release\net8.0\MyConsoleApp.dll
+D:\dotnet\dot-net-aks\MyConsoleApp\bin\Release\net8.0\MyConsoleApp.pdb
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\MyConsoleApp.AssemblyInfo.cs
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\MyConsoleApp.dll
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\refint\MyConsoleApp.dll
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\MyConsoleApp.pdb
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\MyConsoleApp.genruntimeconfig.cache
+D:\dotnet\dot-net-aks\MyConsoleApp\obj\Release\net8.0\ref\MyConsoleApp.dll
