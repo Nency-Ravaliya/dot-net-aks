@@ -150,7 +150,7 @@ steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Nency-Ravaliya/dot-net-aks
    ```
    
 2. **Set Up Azure DevOps Pipeline**:
@@ -164,6 +164,3 @@ steps:
    - Set up a custom domain for your Azure App Service in the Azure Portal.
    - Apply an SSL/TLS certificate to ensure secure HTTPS connections.
 This project provides a complete CI/CD solution for deploying a .NET web application to **Azure App Service** using **Azure DevOps** pipelines. It incorporates best practices for secure configuration management using **Azure Key Vault**, and it includes the ability to host the application with a custom domain for public access.
-
----
-
